@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\er503tu\Desktop\wcms9workspace\wcsm9seleniumproject\.metadata\.plugins\org.eclipse.jdt.core
+2121954045.index
+1865797976.index
+372377510.index
+1812333170.index
